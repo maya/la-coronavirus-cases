@@ -109,8 +109,8 @@ by_city:
   number: 2
 - city: Woodland Hills
   number: 3
-- city: City of LA - Communities <25,000
+- city: City of Los Angeles<br><span class="font-sans-3xs">Communities <25,000</span>
   number: 32
-- city: LA County - Unincorporated Areas <25,000
+- city: Los Angeles County<br><span class="font-sans-3xs">Unincorporated areas, cities, communities <25,000</span>
   number: 30
 
