@@ -4,7 +4,7 @@ layout: default
 
 <div class="padding-2 tablet:padding-x-4">
   <h1 class="font-sans-3xl text-normal margin-bottom-0 margin-top-05">Los Angeles Coronavirus Cases</h1>
-  <p>Source: <a class="usa-link" href="http://www.publichealth.lacounty.gov/phcommon/public/media/mediapubhpdetail.cfm?prid=2271">March 17, 2020 News Release</a>, <a class="usa-link" href="http://www.publichealth.lacounty.gov/media/Coronavirus/">LA Public Health</a></p>
+  <p>Source: <a class="usa-link" href="https://twitter.com/lapublichealth/status/1240375141231546368/photo/2">March 18, 2020 News Release</a>, <a class="usa-link" href="http://www.publichealth.lacounty.gov/media/Coronavirus/">LA Public Health</a></p>
 
   <div class="display-block margin-y-3">
     <div class="display-inline-block">
