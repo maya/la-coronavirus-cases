@@ -82,7 +82,6 @@ layout: default
       {% endfor %}
     </tbody>
   </table>
-  <p class="font-sans-2xs">Note: This table includes Pasadena and Long Beach which are technically outside of LA County.</p>
   <p class="font-sans-2xs">Site last updated: <span class="font-mono-2xs">{{ site.time | date: "%x %r" }}</span> <span class="margin-x-1">|</span> <a class="usa-link" href="https://github.com/maya/la-coronavirus-cases">Contribute to this project on GitHub</a></p>
 </div>
 
