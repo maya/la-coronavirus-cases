@@ -86,7 +86,7 @@ total_deaths: 1
     </tbody>
   </table>
   <p class="font-sans-2xs">Note: This table includes Pasadena and Long Beach which are part of LA County, but outside of LA City.</p>
-  <p class="font-sans-2xs">This uses LA County language. “Total” implies that we know the full extent of the problem and it's limited to tests administered. “Positive tests” would be more accurate.</p>
+  <p class="font-sans-2xs">This uses LA County language. “Total” implies that we know the full extent of the problem, but it’s limited to tests administered. “Positive tests” would be more accurate.</p>
   <p class="font-sans-2xs">Site last updated: <span class="font-mono-2xs">{{ site.time | date: "%x %r" }}</span> <span class="margin-x-1">|</span> <a class="usa-link" href="https://github.com/maya/la-coronavirus-cases">Contribute to this project on GitHub</a></p>
 </div>
 
