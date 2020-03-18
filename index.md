@@ -1,19 +1,22 @@
 ---
 layout: default
+press_release: http://publichealth.lacounty.gov/phcommon/public/media/mediapubhpdetail.cfm?prid=2272
+total_cases: 190
+total_deaths: 1
 ---
 
 <div class="padding-2 tablet:padding-x-4">
   <h1 class="font-sans-3xl text-normal margin-bottom-0 margin-top-05">Los Angeles Coronavirus Cases</h1>
-  <p>Source: <a class="usa-link" href="https://twitter.com/lapublichealth/status/1240375141231546368/photo/2">March 18, 2020 News Release</a>, <a class="usa-link" href="http://www.publichealth.lacounty.gov/media/Coronavirus/">LA Public Health</a></p>
+  <p>Source: <a class="usa-link" href="{{ page.press_release }}">March 18, 2020 News Release</a>, <a class="usa-link" href="http://www.publichealth.lacounty.gov/media/Coronavirus/">LA Public Health</a></p>
 
   <div class="display-block margin-y-3">
     <div class="display-inline-block">
       <p class="margin-y-0 font-sans-3xs text-ls-2 text-uppercase">Total cases</p>
-      <p class="font-sans-3xl text-bold margin-y-0 text-secondary-dark">190</p>
+      <p class="font-sans-3xl text-bold margin-y-0 text-secondary-dark">{{ page.total_cases }}</p>
     </div>
     <div class="display-inline-block margin-left-2">
       <p class="margin-y-0 font-sans-3xs text-ls-2 text-uppercase">Total deaths</p>
-      <p class="font-sans-3xl text-bold margin-y-0">1</p>
+      <p class="font-sans-3xl text-bold margin-y-0">{{ page.total_deaths }}</p>
     </div>
   </div>
 
