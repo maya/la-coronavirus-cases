@@ -37,7 +37,16 @@ layout: default
     </tbody>
   </table>
 
-  <table class="usa-table">
+<style type="text/css">
+  .table-sorted {display: none;}
+  .toggle-me.active + .table-unsorted {display: none;}
+  .active.table-sorted {display: block;}
+</style>
+
+  <button class="toggle-me usa-button margin-top-3">Sort table</button>
+
+  {% assign case = site.data.cases.by_city %}
+  <table class="usa-table table-unsorted">
     <caption>By City</caption>
     <thead>
       <tr>
@@ -46,13 +55,44 @@ layout: default
       </tr>
     </thead>
     <tbody>
-      {% for case in site.data.cases.by_city %}
+      {% for item in case %}
       <tr>
-        <th scope="row">{{ case.city }}</th>
-        <td>{{ case.number }}</td>
+        <th scope="row">{{ item.city }}</th>
+        <td>{{ item.number }}</td>
       </tr>
       {% endfor %}
     </tbody>
   </table>
+
+  {% assign case = site.data.cases.by_city | sort: 'number' | reverse %}
+  <table class="usa-table table-sorted">
+    <caption>By City</caption>
+    <thead>
+      <tr>
+        <th scope="col">City</th>
+        <th scope="col">Cases</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for item in case %}
+      <tr>
+        <th scope="row">{{ item.city }}</th>
+        <td>{{ item.number }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+
   <p>Site last updated: <span class="font-mono-xs">{{ site.time | date: "%x %r" }}</span></p>
 </div>
+
+
+<script type="text/javascript">
+var el = document.querySelector('.toggle-me');
+var table = document.querySelector('.table-sorted');
+
+el.onclick = function() {
+  el.classList.toggle('active');
+  table.classList.toggle('active');
+}
+</script>
