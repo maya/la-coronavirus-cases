@@ -1,9 +1,8 @@
 _site
 _sass
-assets
+# assets
 .sass-cache
 .jekyll-metadata
-assets/uswds
 node_modules
 .gz
 .DS_Store
