@@ -18,7 +18,7 @@ layout: default
   </div>
 
   <iframe class="border-2px border-base-lighter" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRcjzQb44BEhNlZU8oQxvh8VWjGcf5y8NOx53WvWo2bVaEGjmrynQwnN9FaJxl8yzDEXmzb5Emc1cM8/pubchart?oid=1931319394&amp;format=interactive"></iframe>
-
+<!--
   <table class="usa-table">
     <caption>Laboratory Confirmed Cases</caption>
     <thead>
@@ -35,16 +35,16 @@ layout: default
       </tr>
       {% endfor %}
     </tbody>
-  </table>
+  </table> -->
 
-<style type="text/css">
-  .table-sorted {display: none;}
-  .toggle-me.active + .table-unsorted {display: none;}
-  .active.table-sorted {display: block;}
-</style>
+  <style type="text/css">
+    .table-sorted {display: none;}
+    .toggle-me.active + .table-unsorted {display: none;}
+    .active.table-sorted {display: block;}
+  </style>
 
-  <button class="toggle-me usa-button margin-top-3">Sort table</button>
-
+  <div class="clearfix"></div>
+  <button class="toggle-me usa-button margin-top-4">Sort table</button>
   {% assign case = site.data.cases.by_city %}
   <table class="usa-table table-unsorted">
     <caption>By City</caption>
@@ -82,8 +82,8 @@ layout: default
       {% endfor %}
     </tbody>
   </table>
-
-  <p>Site last updated: <span class="font-mono-xs">{{ site.time | date: "%x %r" }}</span></p>
+  <p class="font-sans-2xs">Note: This table includes Pasadena and Long Beach which are technically outside of LA County.</p>
+  <p class="font-sans-2xs">Site last updated: <span class="font-mono-2xs">{{ site.time | date: "%x %r" }}</span></p>
 </div>
 
 

@@ -49,6 +49,8 @@ by_city:
   number: 1
 - city: La Mirada
   number: 3
+- city: Long Beach
+  number: 5
 - city: Lynwood
   number: 1
 - city: Manhattan Beach
@@ -63,6 +65,8 @@ by_city:
   number: 1
 - city: Northridge
   number: 1
+- city: Pasadena
+  number: 2
 - city: Reseda
   number: 1
 - city: San Dimas
