@@ -1,6 +1,7 @@
 title: LA Coronavirus
 baseurl: "/la-coronavirus-cases"
 url: ""
+timezone: America/Tijuana
 
 exclude:
   - assets/js/src
