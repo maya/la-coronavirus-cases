@@ -101,7 +101,7 @@ by_city:
   number: 2
 - city: Woodland Hills
   number: 2
-- city: Other City in Los Angeles County (City <25000)
+- city: Other City in Los Angeles County (City <25,000)
   number: 9
 - city: Los Angeles City (Neighborhood <25,000)
   number: 18
