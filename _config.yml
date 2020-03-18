@@ -1,0 +1,12 @@
+title: LA Coronavirus
+baseurl: ""
+url: ""
+
+exclude:
+  - assets/js/src
+  - Gemfile*
+  - node_modules
+  - package*.json
+  - README.md
+  - vendor
+  - webpack.config.js

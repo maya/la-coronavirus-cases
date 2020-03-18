@@ -1,0 +1,105 @@
+total:
+- city: Los Angeles County (excl. LB and Pas)
+  number: 137
+- city: Long Beach
+  number: 5
+- city: Pasadena
+  number: 2
+- city: <b>Total</b>
+  number: <b>144</b>
+
+by_city:
+- city: Alhambra
+  number: 1
+- city: Altadena
+  number: 1
+- city: Arcadia
+  number: 1
+- city: Baldwin Hills
+  number: 1
+- city: Beverly Hills
+  number: 2
+- city: Boyle Heights
+  number: 5
+- city: Brentwood
+  number: 1
+- city: Carson
+  number: 1
+- city: Culver City
+  number: 2
+- city: Diamond Bar
+  number: 2
+- city: Eagle Rock
+  number: 1
+- city: Encino
+  number: 5
+- city: Gardena
+  number: 1
+- city: Glendale
+  number: 3
+- city: Granada Hills
+  number: 3
+- city: Hollywood
+  number: 1
+- city: Hollywood Hills
+  number: 2
+- city: Inglewood
+  number: 1
+- city: Koreatown
+  number: 1
+- city: La Mirada
+  number: 3
+- city: Lynwood
+  number: 1
+- city: Manhattan Beach
+  number: 4
+- city: Mar Vista
+  number: 1
+- city: Melrose
+  number: 9
+- city: Monterey Park
+  number: 1
+- city: North Hollywood
+  number: 1
+- city: Northridge
+  number: 1
+- city: Reseda
+  number: 1
+- city: San Dimas
+  number: 1
+- city: San Pedro
+  number: 1
+- city: Santa Clarita
+  number: 2
+- city: Santa Monica
+  number: 1
+- city: Sherman Oaks
+  number: 2
+- city: Silverlake
+  number: 1
+- city: South Pasadena
+  number: 1
+- city: Tarzana
+  number: 5
+- city: Torrance
+  number: 1
+- city: Venice
+  number: 2
+- city: West Adams
+  number: 1
+- city: West Hills
+  number: 3
+- city: West Hollywood
+  number: 8
+- city: West Vernon
+  number: 1
+- city: Westchester
+  number: 2
+- city: Woodland Hills
+  number: 2
+- city: Other City in Los Angeles County (City <25000)
+  number: 9
+- city: Los Angeles City (Neighborhood <25,000)
+  number: 18
+- city: Still Investigating
+  number: 19
