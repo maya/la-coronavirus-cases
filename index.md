@@ -9,7 +9,7 @@ layout: default
   <div class="display-block margin-y-3">
     <div class="display-inline-block">
       <p class="margin-y-0 font-sans-3xs text-ls-2 text-uppercase">Total cases</p>
-      <p class="font-sans-3xl text-bold margin-y-0 text-secondary-dark">144</p>
+      <p class="font-sans-3xl text-bold margin-y-0 text-secondary-dark">190</p>
     </div>
     <div class="display-inline-block margin-left-2">
       <p class="margin-y-0 font-sans-3xs text-ls-2 text-uppercase">Total deaths</p>

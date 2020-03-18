@@ -14,33 +14,35 @@ by_city:
 - city: Altadena
   number: 1
 - city: Arcadia
-  number: 1
+  number: 2
 - city: Baldwin Hills
   number: 1
 - city: Beverly Hills
-  number: 2
+  number: 4
 - city: Boyle Heights
   number: 5
 - city: Brentwood
-  number: 1
+  number: 2
 - city: Carson
   number: 1
+- city: Century Palms/Cove
+  number: 1
 - city: Culver City
-  number: 2
+  number: 4
 - city: Diamond Bar
   number: 2
 - city: Eagle Rock
   number: 1
 - city: Encino
-  number: 5
+  number: 6
 - city: Gardena
   number: 1
 - city: Glendale
-  number: 3
+  number: 4
 - city: Granada Hills
   number: 3
 - city: Hollywood
-  number: 1
+  number: 5
 - city: Hollywood Hills
   number: 2
 - city: Inglewood
@@ -50,7 +52,7 @@ by_city:
 - city: La Mirada
   number: 3
 - city: Long Beach
-  number: 5
+  number: 8
 - city: Lynwood
   number: 1
 - city: Manhattan Beach
@@ -58,11 +60,11 @@ by_city:
 - city: Mar Vista
   number: 1
 - city: Melrose
-  number: 9
+  number: 10
 - city: Monterey Park
-  number: 1
+  number: 2
 - city: North Hollywood
-  number: 1
+  number: 2
 - city: Northridge
   number: 1
 - city: Pasadena
@@ -76,34 +78,39 @@ by_city:
 - city: Santa Clarita
   number: 2
 - city: Santa Monica
-  number: 1
+  number: 3
 - city: Sherman Oaks
-  number: 2
+  number: 4
 - city: Silverlake
   number: 1
 - city: South Pasadena
   number: 1
+- city: Sylmar
+  number: 1
 - city: Tarzana
   number: 5
 - city: Torrance
-  number: 1
-- city: Venice
   number: 2
+- city: Venice
+  number: 4
+- city: Walnut
+  number: 1
 - city: West Adams
   number: 1
 - city: West Hills
   number: 3
+- city: West Los Angeles
+  number: 1
 - city: West Hollywood
-  number: 8
+  number: 11
 - city: West Vernon
   number: 1
 - city: Westchester
   number: 2
 - city: Woodland Hills
-  number: 2
-- city: Other City in Los Angeles County (City <25,000)
-  number: 9
-- city: Los Angeles City (Neighborhood <25,000)
-  number: 18
-- city: Still Investigating
-  number: 19
+  number: 3
+- city: City of LA - Communities <25,000
+  number: 32
+- city: LA County - Unincorporated Areas <25,000
+  number: 30
+
