@@ -76,7 +76,7 @@ total_deaths: 1
 <div class="usa-prose" markdown="1">
   <p class="font-sans-2xs">*These numbers are subject to change based on further investigation.</p>
   <p class="font-sans-2xs">This table includes Pasadena and Long Beach which are part of LA County, but outside of LA City.</p>
-  <p class="font-sans-2xs">This uses LA County language. Reported cases is limited to tests administered. “Positive tests” would be more accurate.</p>
+  <p class="font-sans-2xs">This uses LA County language. “Total” implies that we know the full extent of the problem, but it’s limited to tests administered. “Positive tests” or “cumulative cases” would be more accurate.</p>
 
 Always check with trusted sources for the latest accurate information about novel coronavirus:
 - [Los Angeles County Department of Public Health](http://publichealth.lacounty.gov/media/Coronavirus/)
