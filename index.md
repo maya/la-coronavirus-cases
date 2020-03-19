@@ -5,40 +5,28 @@ total_cases: 190
 total_deaths: 1
 ---
 
+<div class="padding-2 tablet:padding-x-4 bg-base-lightest">
+  <p class="margin-0 font-sans-2xs">Learn the importance of social distancing measures to <a class="usa-link" href="https://www.flattenthecurve.com/">flatten the curve</a>.</p>
+</div>
 <div class="padding-2 tablet:padding-x-4">
   <h1 class="font-sans-3xl text-normal margin-bottom-0 margin-top-05">Los Angeles Coronavirus Cases</h1>
   <p>Source: <a class="usa-link" href="{{ page.press_release }}">March 18, 2020 News Release</a>, <a class="usa-link" href="http://www.publichealth.lacounty.gov/media/Coronavirus/">LA Public Health</a></p>
 
   <div class="display-block margin-y-3">
     <div class="display-inline-block">
-      <p class="margin-y-0 font-sans-3xs text-ls-2 text-uppercase">Total cases</p>
+      <p class="margin-y-0 font-sans-3xs text-ls-2 text-uppercase">Cases</p>
       <p class="font-sans-3xl text-bold margin-y-0 text-primary-dark">{{ page.total_cases }}</p>
     </div>
     <div class="display-inline-block margin-left-2">
-      <p class="margin-y-0 font-sans-3xs text-ls-2 text-uppercase">Total deaths</p>
+      <p class="margin-y-0 font-sans-3xs text-ls-2 text-uppercase">Deaths</p>
       <p class="font-sans-3xl text-bold margin-y-0">{{ page.total_deaths }}</p>
     </div>
   </div>
 
   <iframe class="border-2px border-base-lighter" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRcjzQb44BEhNlZU8oQxvh8VWjGcf5y8NOx53WvWo2bVaEGjmrynQwnN9FaJxl8yzDEXmzb5Emc1cM8/pubchart?oid=1931319394&amp;format=interactive"></iframe>
-<!--
-  <table class="usa-table">
-    <caption>Laboratory Confirmed Cases</caption>
-    <thead>
-      <tr>
-        <th scope="col">City</th>
-        <th scope="col">Cases</th>
-      </tr>
-    </thead>
-    <tbody>
-      {% for case in site.data.cases.total %}
-      <tr>
-        <th scope="row">{{ case.city }}</th>
-        <td>{{ case.number }}</td>
-      </tr>
-      {% endfor %}
-    </tbody>
-  </table> -->
+  <p class="font-sans-3xs">
+    <a class="usa-link" href="https://docs.google.com/spreadsheets/d/1b72cOI-GFZkkp8jbdjTj9ZBkRCinCyCWHJh50Ud_yN4/edit?usp=sharing">Google Spreadsheet Data</a>
+  </p>
 
   <style type="text/css">
     .table-sorted {display: none;}
@@ -85,8 +73,24 @@ total_deaths: 1
       {% endfor %}
     </tbody>
   </table>
-  <p class="font-sans-2xs">Note: This table includes Pasadena and Long Beach which are part of LA County, but outside of LA City.</p>
-  <p class="font-sans-2xs">This uses LA County language. “Total” implies that we know the full extent of the problem, but it’s limited to tests administered. “Positive tests” would be more accurate.</p>
+<div class="usa-prose" markdown="1">
+  <p class="font-sans-2xs">*These numbers are subject to change based on further investigation.</p>
+  <p class="font-sans-2xs">This table includes Pasadena and Long Beach which are part of LA County, but outside of LA City.</p>
+  <p class="font-sans-2xs">This uses LA County language. Reported cases is limited to tests administered. “Positive tests” would be more accurate.</p>
+
+Always check with trusted sources for the latest accurate information about novel coronavirus:
+- [Los Angeles County Department of Public Health](http://publichealth.lacounty.gov/media/Coronavirus/)
+- [California Department of Public Health](https://cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.aspx)
+- [Centers for Disease Control and Prevention (CDC)](https://cdc.gov/coronavirus/2019-ncov/index.html)  [Spanish](https://cdc.gov/coronavirus/2019-ncov/index-sp.html)
+- [World Health Organization](https://who.int/health-topics/coronavirus)
+- LA County residents can also call 2-1-1
+
+## Resources
+[California Coronavirus (COVID-19) Response (CA.gov)](https://covid19.ca.gov/)
+
+## Data update cadence
+Data will be refreshed at least every few days, will try every day. If I can find a reliable data source, I will use switch to using that. Reach out or [contribute to updating the data](https://github.com/maya/la-coronavirus-cases).
+</div>
   <p class="font-sans-2xs">Site last updated: <span class="font-mono-2xs">{{ site.time | date: "%x %r" }}</span> <span class="margin-x-1">|</span> <a class="usa-link" href="https://github.com/maya/la-coronavirus-cases">Contribute to this project on GitHub</a></p>
 </div>
 
