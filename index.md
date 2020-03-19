@@ -93,7 +93,7 @@ Always check with trusted sources for the latest accurate information about nove
 
 <h2 class="font-sans-lg margin-top-4 margin-bottom-2">Data update cadence</h2>
 <div class="usa-prose" markdown="1">
-Data will be refreshed at least every few days, will try every day. If I can find a reliable data source, I will use switch to using that. Reach out or [contribute to updating the data](https://github.com/maya/la-coronavirus-cases).
+Data will be refreshed manually at least every few days and will try for every day. If I can find a reliably updating data source to pull from or automate this, I will use switch to using that. Reach out or [contribute to updating the data](https://github.com/maya/la-coronavirus-cases).
 </div>
   <p class="font-sans-2xs margin-top-4 margin-bottom-0">Site last updated: <span class="font-mono-2xs">{{ site.time | date: "%x %r" }}</span> <span class="margin-x-1">|</span> <a class="usa-link" href="https://github.com/maya/la-coronavirus-cases">Contribute to this project on GitHub</a></p>
 </div>
