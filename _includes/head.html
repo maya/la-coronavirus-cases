@@ -20,6 +20,14 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+
+  <!--  Essential META Tags -->
+  <meta property="og:title" content="{{ site.title }}">
+  <meta property="og:description" content="Tracking Coronavirus Cases in Los Angeles">
+  <meta property="og:image" content="{{ site.baseurl }}/assets/img/lacovid.png">
+  <meta property="og:url" content="https://maya-benari.com/la-coronavirus-cases/">
+  <meta name="twitter:card" content="summary_large_image">
+
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <link rel="stylesheet" href="{{ "/assets/uswds/css/styles.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
