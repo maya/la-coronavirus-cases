@@ -1,8 +1,8 @@
 ---
 layout: default
 press_release: http://publichealth.lacounty.gov/phcommon/public/media/mediapubhpdetail.cfm?prid=2272
-total_cases: 190
-total_deaths: 1
+total_cases: 231
+total_deaths: 2
 ---
 
 <div class="padding-2 tablet:padding-x-4 bg-base-lightest">
