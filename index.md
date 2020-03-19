@@ -6,7 +6,7 @@ total_deaths: 1
 ---
 
 <div class="padding-2 tablet:padding-x-4 bg-base-lightest">
-  <p class="margin-0 font-sans-2xs">Learn the importance of <a href="https://covid19.ca.gov/">practicing social distancing and good public health hygiene</a> to help <a class="usa-link" href="https://www.flattenthecurve.com/">flatten the curve</a>.</p>
+  <p class="margin-0 font-sans-2xs">Learn the importance of <a class="usa-link" href="https://covid19.ca.gov/">practicing social distancing and good public health hygiene</a> to help <a class="usa-link" href="https://www.flattenthecurve.com/">flatten the curve</a>.</p>
 </div>
 <div class="padding-2 tablet:padding-x-4">
   <h1 class="font-sans-3xl text-normal margin-bottom-0 margin-top-05">Los Angeles Coronavirus Cases</h1>
