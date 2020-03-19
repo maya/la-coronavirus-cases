@@ -12,7 +12,7 @@ total_deaths: 1
   <div class="display-block margin-y-3">
     <div class="display-inline-block">
       <p class="margin-y-0 font-sans-3xs text-ls-2 text-uppercase">Total cases</p>
-      <p class="font-sans-3xl text-bold margin-y-0 text-secondary-dark">{{ page.total_cases }}</p>
+      <p class="font-sans-3xl text-bold margin-y-0 text-primary-dark">{{ page.total_cases }}</p>
     </div>
     <div class="display-inline-block margin-left-2">
       <p class="margin-y-0 font-sans-3xs text-ls-2 text-uppercase">Total deaths</p>
