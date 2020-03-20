@@ -29,7 +29,7 @@ total_deaths: 2
     <a class="usa-link" href="https://docs.google.com/spreadsheets/d/1b72cOI-GFZkkp8jbdjTj9ZBkRCinCyCWHJh50Ud_yN4/edit?usp=sharing">Google Spreadsheet Data</a>
   </p>
 
-<h2 class="margin-top-4 margin-bottom-2">Geographic data</h2>
+<h2 class="margin-top-4 margin-bottom-2">LA neighborhood cases</h2>
 <div class="maxw-tablet">
 <iframe width="100%" height="520" frameborder="0" src="https://mbenari.carto.com/builder/0bfef6d9-97eb-484d-bf88-412aa82b904e/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 </div>
