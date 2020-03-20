@@ -6,8 +6,8 @@ total_cases: 231
 total_deaths: 2
 ---
 
-<div class="padding-2 tablet:padding-x-4 bg-base-lightest">
-  <p class="margin-0 font-sans-2xs">Learn the importance of <a class="usa-link" href="https://covid19.ca.gov/">practicing social distancing and good public health hygiene</a> to help <a class="usa-link" href="https://www.flattenthecurve.com/">flatten the curve</a>.</p>
+<div class="padding-2 tablet:padding-x-4 bg-primary-dark">
+  <p class="margin-0 font-sans-2xs text-white">Learn the importance of <a class="text-white" href="https://covid19.ca.gov/">practicing social distancing and good public health hygiene</a> to help <a class="text-white" href="https://www.flattenthecurve.com/">flatten the curve</a>.</p>
 </div>
 <div class="padding-2 tablet:padding-x-4">
   <h1 class="font-sans-3xl text-normal margin-bottom-0 margin-top-05">Los Angeles Coronavirus Cases</h1>
