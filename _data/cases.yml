@@ -1,38 +1,50 @@
 by_city:
 - city: Alhambra
+  number: 3
+- city: Altadena
   number: 2
 - city: Arcadia
   number: 2
 - city: Baldwin Hills
   number: 1
 - city: Beverly Hills
-  number: 4
+  number: 5
 - city: Boyle Heights
   number: 5
 - city: Brentwood
-  number: 13
+  number: 16
 - city: Burbank
   number: 1
 - city: Calabasas
   number: 1
 - city: Carson
+  number: 3
+- city: Castaic
+  number: 1
+- city: Century City
+  number: 1
+- city: Century Palms/Cove
   number: 1
 - city: Covina
   number: 1
 - city: Crestview
   number: 1
 - city: Culver City
-  number: 3
+  number: 4
 - city: Diamond Bar
   number: 2
+- city: Downtown
+  number: 1
 - city: Eagle Rock
   number: 1
 - city: East Los Angeles
   number: 1
 - city: Echo Park
   number: 1
+- city: El Segundo
+  number: 1
 - city: Encino
-  number: 6
+  number: 8
 - city: Gardena
   number: 1
 - city: Glendale
@@ -40,11 +52,11 @@ by_city:
 - city: Granada Hills
   number: 4
 - city: Hancock Park
-  number: 1
+  number: 2
 - city: Hawthorne
   number: 2
 - city: Hollywood
-  number: 5
+  number: 7
 - city: Hollywood Hills
   number: 2
 - city: Inglewood
@@ -53,6 +65,8 @@ by_city:
   number: 1
 - city: La Mirada
   number: 3
+- city: Lake Balboa
+  number: 1
 - city: Lawndale
   number: 1
 - city: Lomita
@@ -62,45 +76,51 @@ by_city:
 - city: Lynwood
   number: 1
 - city: Manhattan Beach
-  number: 5
+  number: 6
 - city: Mar Vista
+  number: 3
+- city: Miracle Mile
   number: 1
 - city: Melrose
   number: 11
 - city: Monterey Park
   number: 2
 - city: North Hollywood
-  number: 3
+  number: 5
 - city: Northridge
   number: 1
 - city: Pacific Palisades
-  number: 5
+  number: 6
 - city: Palms
   number: 1
-- city: Park LaBrea
-  number: 1
+- city: Park La Brea
+  number: 4
 - city: Pasadena
   number: 2
 - city: Playa Vista
   number: 1
-- city: Reseda
+- city: Redondo Beach
   number: 1
+- city: Reseda
+  number: 2
 - city: San Dimas
+  number: 1
+- city: San Fernando
   number: 1
 - city: San Pedro
   number: 1
 - city: Santa Clarita
-  number: 3
+  number: 4
+- city: Santa Monica
+  number: 4
 - city: Santa Monica Mountains
   number: 2
-- city: Santa Monica
-  number: 2
 - city: Sherman Oaks
-  number: 5
+  number: 6
 - city: South El Monte
   number: 1
 - city: South Pasadena
-  number: 1
+  number: 2
 - city: Stevenson Ranch
   number: 1
 - city: Studio City
@@ -108,7 +128,7 @@ by_city:
 - city: Sylmar
   number: 1
 - city: Tarzana
-  number: 5
+  number: 6
 - city: Torrance
   number: 2
 - city: Tujunga
@@ -116,28 +136,34 @@ by_city:
 - city: University Park
   number: 1
 - city: Valley Glen
-  number: 1
+  number: 3
 - city: Van Nuys
   number: 1
 - city: Venice
   number: 4
 - city: Vermont Knolls
-  number: 4
-- city: Walnut
   number: 1
+- city: Walnut
+  number: 2
 - city: West Adams
   number: 1
 - city: West Hills
   number: 3
 - city: West Hollywood
-  number: 12
+  number: 15
 - city: West Los Angeles
-  number: 2
+  number: 3
 - city: West Vernon
   number: 1
 - city: Westchester
-  number: 2
-- city: Woodland Hills
   number: 3
+- city: Westwood
+  number: 5
+- city: Whittier
+  number: 2
+- city: Winnetka
+  number: 1
+- city: Woodland Hills
+  number: 4
 - city: Under Investigation
-  number: 30
+  number: 39

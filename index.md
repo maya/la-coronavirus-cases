@@ -1,8 +1,8 @@
 ---
 layout: default
-press_release: http://publichealth.lacounty.gov/phcommon/public/media/mediapubhpdetail.cfm?prid=2273
-date: 19
-total_cases: 231
+press_release: https://twitter.com/lapublichealth/status/1241097919941369856
+date: 20
+total_cases: 292
 total_deaths: 2
 ---
 
