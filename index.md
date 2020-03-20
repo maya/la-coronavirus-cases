@@ -1,6 +1,7 @@
 ---
 layout: default
-press_release: http://publichealth.lacounty.gov/phcommon/public/media/mediapubhpdetail.cfm?prid=2272
+press_release: http://publichealth.lacounty.gov/phcommon/public/media/mediapubhpdetail.cfm?prid=2273
+date: 19
 total_cases: 231
 total_deaths: 2
 ---
@@ -10,7 +11,7 @@ total_deaths: 2
 </div>
 <div class="padding-2 tablet:padding-x-4">
   <h1 class="font-sans-3xl text-normal margin-bottom-0 margin-top-05">Los Angeles Coronavirus Cases</h1>
-  <p>Source: <a class="usa-link" href="{{ page.press_release }}">March 18, 2020 News Release</a>, <a class="usa-link" href="http://www.publichealth.lacounty.gov/media/Coronavirus/">LA Public Health</a></p>
+  <p>Source: <a class="usa-link" href="{{ page.press_release }}">March {{ page.date }}, 2020 News Release</a>, <a class="usa-link" href="http://www.publichealth.lacounty.gov/media/Coronavirus/">LA Public Health</a></p>
 
   <div class="display-block margin-y-3">
     <div class="display-inline-block">
