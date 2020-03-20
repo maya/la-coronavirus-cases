@@ -29,13 +29,18 @@ total_deaths: 2
     <a class="usa-link" href="https://docs.google.com/spreadsheets/d/1b72cOI-GFZkkp8jbdjTj9ZBkRCinCyCWHJh50Ud_yN4/edit?usp=sharing">Google Spreadsheet Data</a>
   </p>
 
+<h2 class="margin-top-4 margin-bottom-2">Geographic data</h2>
+<div class="maxw-tablet">
+<iframe width="100%" height="520" frameborder="0" src="https://mbenari.carto.com/builder/0bfef6d9-97eb-484d-bf88-412aa82b904e/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+</div>
+
   <style type="text/css">
     .table-sorted {display: none;}
     .toggle-me.active + .table-unsorted {display: none;}
     .active.table-sorted {display: block;}
   </style>
 
-  <div class="clearfix"></div>
+  <div class="clearfix margin-top-4"></div>
   <button class="toggle-me usa-button margin-top-4">Sort table</button>
   {% assign case = site.data.cases.by_city %}
   <table class="usa-table table-unsorted">
