@@ -1,18 +1,6 @@
-total:
-- city: Los Angeles County (excl. LB and Pas)
-  number: 137
-- city: Long Beach
-  number: 5
-- city: Pasadena
-  number: 2
-- city: <b>Total</b>
-  number: <b>144</b>
-
 by_city:
 - city: Alhambra
-  number: 1
-- city: Altadena
-  number: 1
+  number: 2
 - city: Arcadia
   number: 2
 - city: Baldwin Hills
@@ -22,16 +10,26 @@ by_city:
 - city: Boyle Heights
   number: 5
 - city: Brentwood
-  number: 2
+  number: 13
+- city: Burbank
+  number: 1
+- city: Calabasas
+  number: 1
 - city: Carson
   number: 1
-- city: Century Palms/Cove
+- city: Covina
+  number: 1
+- city: Crestview
   number: 1
 - city: Culver City
-  number: 4
+  number: 3
 - city: Diamond Bar
   number: 2
 - city: Eagle Rock
+  number: 1
+- city: East Los Angeles
+  number: 1
+- city: Echo Park
   number: 1
 - city: Encino
   number: 6
@@ -40,35 +38,51 @@ by_city:
 - city: Glendale
   number: 4
 - city: Granada Hills
-  number: 3
+  number: 4
+- city: Hancock Park
+  number: 1
+- city: Hawthorne
+  number: 2
 - city: Hollywood
   number: 5
 - city: Hollywood Hills
   number: 2
 - city: Inglewood
-  number: 1
+  number: 2
 - city: Koreatown
   number: 1
 - city: La Mirada
   number: 3
+- city: Lawndale
+  number: 1
+- city: Lomita
+  number: 5
 - city: Long Beach
-  number: 8
+  number: 12
 - city: Lynwood
   number: 1
 - city: Manhattan Beach
-  number: 4
+  number: 5
 - city: Mar Vista
   number: 1
 - city: Melrose
-  number: 10
+  number: 11
 - city: Monterey Park
   number: 2
 - city: North Hollywood
-  number: 2
+  number: 3
 - city: Northridge
+  number: 1
+- city: Pacific Palisades
+  number: 5
+- city: Palms
+  number: 1
+- city: Park LaBrea
   number: 1
 - city: Pasadena
   number: 2
+- city: Playa Vista
+  number: 1
 - city: Reseda
   number: 1
 - city: San Dimas
@@ -76,22 +90,38 @@ by_city:
 - city: San Pedro
   number: 1
 - city: Santa Clarita
+  number: 3
+- city: Santa Monica Mountains
   number: 2
 - city: Santa Monica
-  number: 3
+  number: 2
 - city: Sherman Oaks
-  number: 4
-- city: Silverlake
+  number: 5
+- city: South El Monte
   number: 1
 - city: South Pasadena
   number: 1
+- city: Stevenson Ranch
+  number: 1
+- city: Studio City
+  number: 3
 - city: Sylmar
   number: 1
 - city: Tarzana
   number: 5
 - city: Torrance
   number: 2
+- city: Tujunga
+  number: 1
+- city: University Park
+  number: 1
+- city: Valley Glen
+  number: 1
+- city: Van Nuys
+  number: 1
 - city: Venice
+  number: 4
+- city: Vermont Knolls
   number: 4
 - city: Walnut
   number: 1
@@ -99,18 +129,15 @@ by_city:
   number: 1
 - city: West Hills
   number: 3
-- city: West Los Angeles
-  number: 1
 - city: West Hollywood
-  number: 11
+  number: 12
+- city: West Los Angeles
+  number: 2
 - city: West Vernon
   number: 1
 - city: Westchester
   number: 2
 - city: Woodland Hills
   number: 3
-- city: City of Los Angeles<br><span class="font-sans-3xs">Communities <25,000</span>
-  number: 32
-- city: Los Angeles County<br><span class="font-sans-3xs">Unincorporated areas, cities, communities <25,000</span>
+- city: Under Investigation
   number: 30
-
