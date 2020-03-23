@@ -2,105 +2,135 @@ by_city:
 - city: Alhambra
   number: 3
 - city: Altadena
-  number: 2
+  number: 3
 - city: Arcadia
   number: 2
+- city: Athens
+  number: 1
 - city: Baldwin Hills
+  number: 3
+- city: Bellflower
   number: 1
 - city: Beverly Hills
-  number: 5
+  number: 8
+- city: Beverlywood
+  number: 6
 - city: Boyle Heights
   number: 5
 - city: Brentwood
-  number: 16
+  number: 23
 - city: Burbank
-  number: 1
+  number: 2
 - city: Calabasas
+  number: 2
+- city: Canoga Park
   number: 1
 - city: Carson
-  number: 3
+  number: 4
 - city: Castaic
   number: 1
 - city: Century City
-  number: 1
+  number: 4
 - city: Century Palms/Cove
   number: 1
+- city: Cerritos
+  number: 2
 - city: Covina
   number: 1
 - city: Crestview
-  number: 1
+  number: 5
 - city: Culver City
   number: 4
+- city: Del Rey
+  number: 2
 - city: Diamond Bar
   number: 2
 - city: Downtown
   number: 1
 - city: Eagle Rock
   number: 1
-- city: East Los Angeles
+- city: East Hollywood
   number: 1
+- city: East Los Angeles
+  number: 2
 - city: Echo Park
   number: 1
 - city: El Segundo
   number: 1
 - city: Encino
-  number: 8
+  number: 10
 - city: Gardena
   number: 1
 - city: Glendale
-  number: 4
+  number: 6
+- city: Glendora
+  number: 1
 - city: Granada Hills
   number: 4
 - city: Hancock Park
-  number: 2
+  number: 5
 - city: Hawthorne
   number: 2
 - city: Hollywood
-  number: 7
+  number: 12
 - city: Hollywood Hills
-  number: 2
+  number: 5
 - city: Inglewood
-  number: 2
+  number: 3
 - city: Koreatown
+  number: 2
+- city: La Canada Flintridge
   number: 1
 - city: La Mirada
   number: 3
+- city: La Verne
+  number: 2
 - city: Lake Balboa
   number: 1
+- city: Lakewood
+  number: 1
+- city: Lancaster
+  number: 4
 - city: Lawndale
   number: 1
 - city: Lomita
-  number: 5
+  number: 8
 - city: Long Beach
-  number: 12
+  number: 15
+- city: Los Feliz
+  number: 1
 - city: Lynwood
-  number: 1
-- city: Manhattan Beach
-  number: 6
-- city: Mar Vista
-  number: 3
-- city: Miracle Mile
-  number: 1
-- city: Melrose
-  number: 11
-- city: Monterey Park
   number: 2
+- city: Manhattan Beach
+  number: 7
+- city: Mar Vista
+  number: 5
+- city: Melrose
+  number: 17
+- city: Miracle Mile
+  number: 4
+- city: Monterey Park
+  number: 3
 - city: North Hollywood
   number: 5
 - city: Northridge
   number: 1
 - city: Pacific Palisades
-  number: 6
+  number: 7
 - city: Palms
+  number: 1
+- city: Paramount
   number: 1
 - city: Park La Brea
   number: 4
 - city: Pasadena
-  number: 2
+  number: 3
 - city: Playa Vista
+  number: 2
+- city: Rancho Palos Verdes
   number: 1
 - city: Redondo Beach
-  number: 1
+  number: 4
 - city: Reseda
   number: 2
 - city: San Dimas
@@ -112,58 +142,80 @@ by_city:
 - city: Santa Clarita
   number: 4
 - city: Santa Monica
-  number: 4
+  number: 7
 - city: Santa Monica Mountains
   number: 2
 - city: Sherman Oaks
-  number: 6
+  number: 7
+- city: Silverlake
+  number: 3
 - city: South El Monte
   number: 1
+- city: South Gate
+  number: 1
 - city: South Pasadena
-  number: 2
+  number: 3
+- city: South Whittier
+  number: 1
 - city: Stevenson Ranch
   number: 1
 - city: Studio City
-  number: 3
+  number: 4
+- city: Sun Valley
+  number: 1
+- city: Sunland
+  number: 1
 - city: Sylmar
   number: 1
 - city: Tarzana
-  number: 6
+  number: 8
+- city: Temple
+  number: 1
 - city: Torrance
-  number: 2
+  number: 3
 - city: Tujunga
   number: 1
 - city: University Park
   number: 1
 - city: Valley Glen
-  number: 3
+  number: 6
 - city: Van Nuys
-  number: 1
+  number: 2
 - city: Venice
-  number: 4
+  number: 7
 - city: Vermont Knolls
   number: 1
+- city: Vermont Vista
+  number: 1
+- city: Vernon Central
+  number: 1
 - city: Walnut
-  number: 2
+  number: 1
 - city: West Adams
   number: 1
+- city: West Covina
+  number: 1
 - city: West Hills
-  number: 3
+  number: 4
 - city: West Hollywood
-  number: 15
+  number: 19
 - city: West Los Angeles
   number: 3
 - city: West Vernon
-  number: 1
+  number: 2
 - city: Westchester
   number: 3
+- city: Westlake
+  number: 1
 - city: Westwood
   number: 5
 - city: Whittier
   number: 2
+- city: Wilmington
+  number: 1
 - city: Winnetka
   number: 1
 - city: Woodland Hills
-  number: 4
+  number: 5
 - city: Under Investigation
-  number: 39
+  number: 38
