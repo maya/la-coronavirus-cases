@@ -1,221 +1,311 @@
 by_city:
+- city: Agoura Hills*
+  number: 5
 - city: Alhambra
-  number: 3
-- city: Altadena
-  number: 3
+  number: 8
+- city: Altadena*
+  number: 6
 - city: Arcadia
+  number: 6
+- city: Arleta
   number: 2
 - city: Athens
+  number: 3
+- city: Azusa*
   number: 1
 - city: Baldwin Hills
+  number: 4
+- city: Bell
+  number: 2
+- city: Bell Gardens*
   number: 3
-- city: Bellflower
-  number: 1
-- city: Beverly Hills
+- city: Bellflower*
   number: 8
-- city: Beverlywood
-  number: 6
+- city: Beverly Hills
+  number: 15
+- city: Beverlywood*
+  number: 10
 - city: Boyle Heights
-  number: 5
-- city: Brentwood
-  number: 23
+  number: 7
+- city: Brentwood*
+  number: 42
 - city: Burbank
-  number: 2
-- city: Calabasas
-  number: 2
-- city: Canoga Park
-  number: 1
-- city: Carson
-  number: 4
-- city: Castaic
-  number: 1
-- city: Century City
-  number: 4
-- city: Century Palms/Cove
-  number: 1
-- city: Cerritos
-  number: 2
-- city: Covina
-  number: 1
-- city: Crestview
+  number: 6
+- city: Calabasas*
   number: 5
-- city: Culver City
-  number: 4
-- city: Del Rey
+- city: Canoga Park
+  number: 3
+- city: Canyon Country*
+  number: 1
+- city: Carson*
+  number: 21
+- city: Castaic
   number: 2
+- city: Century City*
+  number: 9
+- city: Century Palms/Cove*
+  number: 3
+- city: Cerritos*
+  number: 2
+- city: Chatsworth
+  number: 1
+- city: Claremont*
+  number: 1
+- city: Cloverdale/Cochran*
+  number: 3
+- city: Compton*
+  number: 5
+- city: Covina*
+  number: 4
+- city: Crenshaw District*
+  number: 2
+- city: Crestview*
+  number: 9
+- city: Culver City*
+  number: 8
+- city: Del Rey
+  number: 9
 - city: Diamond Bar
   number: 2
-- city: Downtown
-  number: 1
-- city: Eagle Rock
-  number: 1
-- city: East Hollywood
-  number: 1
-- city: East Los Angeles
-  number: 2
-- city: Echo Park
-  number: 1
-- city: El Segundo
-  number: 1
-- city: Encino
+- city: Downey
   number: 10
-- city: Gardena
-  number: 1
-- city: Glendale
-  number: 6
-- city: Glendora
-  number: 1
-- city: Granada Hills
+- city: Downtown*
+  number: 7
+- city: Duarte*
+  number: 2
+- city: Eagle Rock
+  number: 3
+- city: East Hollywood
+  number: 2
+- city: East Los Angeles
   number: 4
-- city: Hancock Park
-  number: 5
-- city: Hawthorne
+- city: Echo Park*
+  number: 7
+- city: El Segundo*
   number: 2
-- city: Hollywood
-  number: 12
-- city: Hollywood Hills
-  number: 5
-- city: Inglewood
-  number: 3
-- city: Koreatown
+- city: Encino
+  number: 21
+- city: Exposition Park
   number: 2
-- city: La Canada Flintridge
+- city: Florence*
+  number: 7
+- city: Gardena
+  number: 4
+- city: Glassell Park
+  number: 2
+- city: Glendale
+  number: 23
+- city: Glendora*
+  number: 2
+- city: Granada Hills
+  number: 8
+- city: Hacienda Heights
+  number: 2
+- city: Hancock Park*
+  number: 10
+- city: Harbor City*
   number: 1
-- city: La Mirada
+- city: Harbor Gateway*
   number: 3
-- city: La Verne
+- city: Harvard Heights*
+  number: 2
+- city: Hawthorne*
+  number: 9
+- city: Highland Park
+  number: 3
+- city: Hollywood
+  number: 27
+- city: Hollywood Hills
+  number: 17
+- city: Hyde Park*
+  number: 1
+- city: Inglewood
+  number: 12
+- city: Koreatown
+  number: 7
+- city: La Canada Flintridge*
+  number: 6
+- city: La Mirada*
+  number: 5
+- city: La Puente
+  number: 1
+- city: La Verne*
   number: 2
 - city: Lake Balboa
-  number: 1
-- city: Lakewood
-  number: 1
-- city: Lancaster
-  number: 4
-- city: Lawndale
-  number: 1
-- city: Lomita
-  number: 8
-- city: Long Beach
-  number: 15
-- city: Los Feliz
-  number: 1
-- city: Lynwood
+  number: 3
+- city: Lakewood*
+  number: 7
+- city: Lancaster*
+  number: 16
+- city: Lawndale*
   number: 2
-- city: Manhattan Beach
-  number: 7
+- city: Leimert Park*
+  number: 2
+- city: Lincoln Heights
+  number: 1
+- city: Little Bangladesh
+  number: 1
+- city: Lomita*
+  number: 12
+- city: Los Feliz*
+  number: 5
+- city: Lynwood
+  number: 6
+- city: Manhattan Beach*
+  number: 21
 - city: Mar Vista
-  number: 5
+  number: 8
+- city: Maywood*
+  number: 1
 - city: Melrose
-  number: 17
-- city: Miracle Mile
-  number: 4
+  number: 47
+- city: Miracle Mile*
+  number: 13
+- city: Monrovia*
+  number: 2
+- city: Montebello
+  number: 1
 - city: Monterey Park
-  number: 3
-- city: North Hollywood
-  number: 5
-- city: Northridge
-  number: 1
-- city: Pacific Palisades
-  number: 7
-- city: Palms
-  number: 1
-- city: Paramount
-  number: 1
-- city: Park La Brea
   number: 4
-- city: Pasadena
+- city: Mt. Washington*
   number: 3
-- city: Playa Vista
+- city: North Hills
+  number: 1
+- city: North Hollywood
+  number: 15
+- city: Northridge
+  number: 4
+- city: Norwalk
+  number: 9
+- city: Pacific Palisades*
+  number: 12
+- city: Pacoima
+  number: 1
+- city: Palmdale
+  number: 2
+- city: Palms
+  number: 10
+- city: Panorama City
+  number: 4
+- city: Paramount
+  number: 4
+- city: Park La Brea*
+  number: 8
+- city: Pico
+  number: 5
+- city: Pico Rivera
+  number: 2
+- city: Playa Vista*
+  number: 8
+- city: Pomona*
+  number: 3
+- city: Porter Ranch
   number: 2
 - city: Rancho Palos Verdes
-  number: 1
+  number: 6
 - city: Redondo Beach
-  number: 4
+  number: 20
 - city: Reseda
-  number: 2
-- city: San Dimas
+  number: 8
+- city: San Dimas*
   number: 1
-- city: San Fernando
-  number: 1
-- city: San Pedro
-  number: 1
+- city: San Fernando*
+  number: 3
+- city: San Gabriel
+  number: 3
+- city: San Pedro*
+  number: 5
 - city: Santa Clarita
-  number: 4
+  number: 16
 - city: Santa Monica
-  number: 7
-- city: Santa Monica Mountains
-  number: 2
-- city: Sherman Oaks
-  number: 7
-- city: Silverlake
-  number: 3
-- city: South El Monte
-  number: 1
-- city: South Gate
-  number: 1
-- city: South Pasadena
-  number: 3
-- city: South Whittier
-  number: 1
-- city: Stevenson Ranch
-  number: 1
-- city: Studio City
+  number: 21
+- city: Santa Monica Mountains*
   number: 4
+- city: Sherman Oaks
+  number: 17
+- city: Silverlake
+  number: 11
+- city: South El Monte*
+  number: 4
+- city: South Gate
+  number: 4
+- city: South Park
+  number: 2
+- city: South Pasadena*
+  number: 4
+- city: South Whittier*
+  number: 4
+- city: Stevenson Ranch*
+  number: 3
+- city: Studio City*
+  number: 11
 - city: Sun Valley
-  number: 1
-- city: Sunland
+  number: 2
+- city: Sunland*
   number: 1
 - city: Sylmar
-  number: 1
-- city: Tarzana
-  number: 8
-- city: Temple
-  number: 1
-- city: Torrance
-  number: 3
-- city: Tujunga
-  number: 1
-- city: University Park
-  number: 1
-- city: Valley Glen
-  number: 6
-- city: Van Nuys
   number: 2
+- city: Tarzana
+  number: 14
+- city: Temple*
+  number: 6
+- city: Torrance
+  number: 14
+- city: Tujunga*
+  number: 2
+- city: University Park*
+  number: 6
+- city: Valinda*
+  number: 1
+- city: Valley Glen*
+  number: 12
+- city: Van Nuys
+  number: 4
 - city: Venice
-  number: 7
-- city: Vermont Knolls
-  number: 1
-- city: Vermont Vista
-  number: 1
+  number: 11
+- city: Vermont Knolls*
+  number: 3
+- city: Vermont Vista*
+  number: 5
 - city: Vernon Central
   number: 1
-- city: Walnut
+- city: Walnut*
+  number: 1
+- city: Watts
   number: 1
 - city: West Adams
-  number: 1
+  number: 6
 - city: West Covina
-  number: 1
-- city: West Hills
+  number: 4
+- city: West Hills*
   number: 4
 - city: West Hollywood
-  number: 19
-- city: West Los Angeles
-  number: 3
-- city: West Vernon
-  number: 2
+  number: 35
+- city: West Los Angeles*
+  number: 5
+- city: West Vernon*
+  number: 6
+- city: West Whittier/Los Nietos*
+  number: 1
 - city: Westchester
-  number: 3
+  number: 7
 - city: Westlake
   number: 1
 - city: Westwood
-  number: 5
-- city: Whittier
-  number: 2
+  number: 11
+- city: Whittier*
+  number: 3
+- city: Wholesale District
+  number: 6
+- city: Willowbrook*
+  number: 1
 - city: Wilmington
-  number: 1
-- city: Winnetka
-  number: 1
-- city: Woodland Hills
   number: 5
+- city: Wilshire Center
+  number: 2
+- city: Winnetka*
+  number: 5
+- city: Woodland Hills
+  number: 13
 - city: Under Investigation
-  number: 38
+  number: 141
