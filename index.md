@@ -2,8 +2,8 @@
 layout: default
 press_release: https://twitter.com/lapublichealth/status/1241097919941369856
 date: 22
-total_cases: 409
-total_deaths: 5
+total_cases: 1216
+total_deaths: 21
 ---
 
 <div class="padding-2 tablet:padding-x-4 bg-primary-dark">
