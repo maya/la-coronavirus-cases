@@ -2,8 +2,8 @@
 layout: default
 press_release: http://publichealth.lacounty.gov/phcommon/public/media/mediapubhpdetail.cfm?prid=2284
 date: 26
-total_cases: 1216
-total_deaths: 21
+total_cases: 5940
+total_deaths: 132
 ---
 
 <div class="padding-2 tablet:padding-x-4 bg-primary-dark">
@@ -34,51 +34,52 @@ total_deaths: 21
 <iframe width="100%" height="520" frameborder="0" src="https://mbenari.carto.com/builder/0bfef6d9-97eb-484d-bf88-412aa82b904e/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 </div>
 
-  <style type="text/css">
-    .table-sorted {display: none;}
-    .toggle-me.active + .table-unsorted {display: none;}
-    .active.table-sorted {display: block;}
-  </style>
+<!-- <style type="text/css">
+  .table-sorted {display: none;}
+  .toggle-me.active + .table-unsorted {display: none;}
+  .active.table-sorted {display: block;}
+</style>
 
-  <div class="clearfix margin-top-4"></div>
-  <button class="toggle-me usa-button margin-top-4">Sort table</button>
-  {% assign case = site.data.cases.by_city %}
-  <table class="usa-table table-unsorted">
-    <caption>By City</caption>
-    <thead>
-      <tr>
-        <th scope="col">City</th>
-        <th scope="col">Cases</th>
-      </tr>
-    </thead>
-    <tbody>
-      {% for item in case %}
-      <tr>
-        <th scope="row">{{ item.city }}</th>
-        <td>{{ item.number }}</td>
-      </tr>
-      {% endfor %}
-    </tbody>
-  </table>
+<div class="clearfix margin-top-4"></div>
+<button class="toggle-me usa-button margin-top-4">Sort table</button>
+{% assign case = site.data.cases.by_city %}
+<table class="usa-table table-unsorted">
+  <caption>By City</caption>
+  <thead>
+    <tr>
+      <th scope="col">City</th>
+      <th scope="col">Cases</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for item in case %}
+    <tr>
+      <th scope="row">{{ item.city }}</th>
+      <td>{{ item.number }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
 
-  {% assign case = site.data.cases.by_city | sort: 'number' | reverse %}
-  <table class="usa-table table-sorted">
-    <caption>By City</caption>
-    <thead>
-      <tr>
-        <th scope="col">City</th>
-        <th scope="col">Cases</th>
-      </tr>
-    </thead>
-    <tbody>
-      {% for item in case %}
-      <tr>
-        <th scope="row">{{ item.city }}</th>
-        <td>{{ item.number }}</td>
-      </tr>
-      {% endfor %}
-    </tbody>
-  </table>
+{% assign case = site.data.cases.by_city | sort: 'number' | reverse %}
+<table class="usa-table table-sorted">
+  <caption>By City</caption>
+  <thead>
+    <tr>
+      <th scope="col">City</th>
+      <th scope="col">Cases</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for item in case %}
+    <tr>
+      <th scope="row">{{ item.city }}</th>
+      <td>{{ item.number }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table> -->
+
 <div class="usa-prose" markdown="1">
   <p class="font-sans-2xs">*These numbers are subject to change based on further investigation.</p>
   <p class="font-sans-2xs">This table includes Pasadena and Long Beach which are part of LA County, but outside of LA City.</p>
