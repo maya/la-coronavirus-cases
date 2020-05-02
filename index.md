@@ -1,9 +1,9 @@
 ---
 layout: default
-press_release: http://publichealth.lacounty.gov/phcommon/public/media/mediapubhpdetail.cfm?prid=2284
-date: 26
-total_cases: 5940
-total_deaths: 132
+press_release: http://publichealth.lacounty.gov/phcommon/public/media/mediapubhpdetail.cfm?prid=2353
+date: May 1
+total_cases: 24,215
+total_deaths: 1,086
 ---
 
 <div class="padding-2 tablet:padding-x-4 bg-primary-dark">
@@ -11,7 +11,7 @@ total_deaths: 132
 </div>
 <div class="padding-2 tablet:padding-x-4">
   <h1 class="font-sans-3xl text-normal margin-bottom-0 margin-top-05">Los Angeles Coronavirus Cases</h1>
-  <p>Source: <a class="usa-link" href="{{ page.press_release }}">March {{ page.date }}, 2020 News Release</a>, <a class="usa-link" href="http://www.publichealth.lacounty.gov/media/Coronavirus/">LA Public Health</a></p>
+  <p>Source: {{ page.date }}, 2020 News Release, <a class="usa-link" href="http://www.publichealth.lacounty.gov/media/Coronavirus/">LA Public Health</a></p>
 
   <div class="display-block margin-y-3">
     <div class="display-inline-block">
@@ -31,7 +31,12 @@ total_deaths: 132
 
 <h2 class="margin-top-4 margin-bottom-2">LA neighborhood cases</h2>
 <div class="maxw-tablet">
-<iframe width="100%" height="520" frameborder="0" src="https://mbenari.carto.com/builder/0bfef6d9-97eb-484d-bf88-412aa82b904e/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+  <iframe width="100%" height="520" frameborder="0" src="https://mbenari.carto.com/builder/0bfef6d9-97eb-484d-bf88-412aa82b904e/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+</div>
+
+<h2 class="margin-top-4 margin-bottom-2">LA neighborhood rate</h2>
+<div class="maxw-tablet">
+  <iframe width="100%" height="520" frameborder="0" src="https://mbenari.carto.com/builder/fbc3fcc1-f083-4abd-a826-40e5db52db46/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 </div>
 
 <!-- <style type="text/css">
